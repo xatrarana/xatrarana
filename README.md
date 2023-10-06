@@ -116,5 +116,75 @@
 ----
 
 
+## Summary
+
+This project is a demonstration of my skills as a full-stack developer. It includes two major applications: "Visit Panauti" and "Jawalamukhi Municipality Tourist Application", both built using React Native and Node.js/Express for backend.
+
+## About the Applications
+
+### Visit Panauti
+
+Visit Panauti is a mobile application developed for Panauti Municipality. It serves as a guide for visitors, providing essential information and features to enhance their experience.
+
+- **Role**: Backend and Frontend Developer
+- **Tech Stack**: React Native, Node.js, Express
+- **Features**: [List the main features]
+
+### Jawalamukhi Municipality Tourist Application
+
+This application, developed for BMS Software Company, focuses on tourism in Jawalamukhi Municipality. As a backend developer, I was responsible for server setup and management.
+
+- **Role**: Backend Developer
+- **Tech Stack**: Node.js, Express
+- **Features**: [List the main features]
+
+## CastellTech Website
+
+I also contributed as a Frontend Developer to the website for CastellTech, a software company.
+
+- **Role**: Frontend Developer
+- **Tech Stack**: [Specify relevant technologies]
+- **Features**: [List the main features]
+
+## Subscriber (Digital Marketing Company)
+
+As a Backend Developer, I applied my skills in tasks such as cron jobs, task management, and newsletter functionalities.
+
+- **Role**: Backend Developer
+- **Tech Stack**: Node.js, Express
+- **Responsibilities**: [Specify responsibilities]
+
+## Skills
+
+- Languages: JavaScript (Node.js), HTML, CSS
+- Frameworks/Libraries: React, React Native, Express, Next.js
+- Database: [Specify Database Systems]
+- Server Management: [Specify Relevant Tools/Platforms]
+- Version Control: Git
+- Communication: Strong verbal and written communication skills
+- Teamwork: Collaborative and effective team player
+- Problem-Solving: Analytical thinker with a solution-oriented mindset
+
+## Certifications
+
+- Certificate in Hardware Fellowship Program
+  Organized by Locus
+  Program focused on understanding hardware related to IoT and Arduino programming
+
+## Interests
+
+- Playing games
+- Night outs with friends
+
+## Contact Information
+
+- Address: Aloknagar-31, Kathmandu
+- Email: chhatraclas@gmail.com
+- Phone: 9866615358
+- LinkedIn: [chhatra rana](LinkedIn Link)
+- GitHub: [xatrarana](GitHub Link)
+
+
+
 
 
