@@ -19,7 +19,7 @@
 
 
 ## My Skill Set  
-<div style="display: flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: space-around; gap: 20px;">
     <a href="https://reactjs.org/" target="_blank">
         <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
     </a>  
