@@ -1,10 +1,10 @@
 ### Hi, I'm Chhatra, a Backend Engineer & Machine Learning Enthusiast 👨‍💻
 
-- 👀 **Areas of Interest**: TypeScript, .NET, Backend Development, Machine Learning  
-- 🔭 **Current Focus**: Backend Systems and API Development | Exploring Machine Learning  
-- 🌱 **Learning**: Deepening knowledge in AI/ML and related technologies  
-- 💼 **Ask Me About**: TypeScript, .NET, Backend Development, and Machine Learning  
-- ⚡ **Fun Fact**: Constantly experimenting with new technologies to enhance my skills and stay ahead in the tech world!
+👀 **Areas of Interest**: TypeScript, .NET, Backend Development, Machine Learning  
+🔭 **Current Focus**: Backend Systems and API Development | Exploring Machine Learning  
+🌱 **Learning**: Deepening knowledge in AI/ML and related technologies  
+💼 **Ask Me About**: TypeScript, .NET, Backend Development, and Machine Learning  
+⚡ **Fun Fact**: Constantly experimenting with new technologies to enhance my skills and stay ahead in the tech world!
 
 <br/>  
 
