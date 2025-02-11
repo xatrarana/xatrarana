@@ -11,9 +11,18 @@
 
 ## My Tech Recipe 🍴
 
-[![.NET](https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg)](https://dotnet.microsoft.com/download/dotnet-framework)
-[![TypeScript](https://profilinator.rishav.dev/skills-assets/typescript-original.svg)](https://www.typescriptlang.org/)
-[![Docker](https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg)](https://www.docker.com/)
+<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" width="40" />
+</a> 
+
+<a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" width="40" />
+</a> 
+
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" width="40" />
+</a>
+
 
 <br/>  
 
